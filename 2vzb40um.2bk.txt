@@ -1,0 +1,23 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#
+# Untracked files:
+#	apple-touch-icon.png
+#	browserconfig.xml
+#	css/
+#	favicon.ico
+#	fonts/
+#	index.html
+#	js/
+#	tile-wide.png
+#	tile.png
+#
+
+just 1st test commit
